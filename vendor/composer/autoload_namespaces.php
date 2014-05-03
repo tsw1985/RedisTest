@@ -13,5 +13,6 @@ return array(
     'Symfony\\Component\\Debug\\' => array($vendorDir . '/symfony/debug'),
     'Silex' => array($vendorDir . '/silex/silex/src'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log'),
+    'Predis' => array($vendorDir . '/predis/predis/lib'),
     'Pimple' => array($vendorDir . '/pimple/pimple/lib'),
 );
